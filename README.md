@@ -1,2 +1,2 @@
 # HOMIBEE
-HOMIBEE website project
+HOMIBEE idea prototype 
